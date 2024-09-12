@@ -138,6 +138,42 @@ button{
     justify-content: right;
 }
 
+.container4{
+    background-color: #F9FAF8;
+    padding: 100px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.action{
+    width: 800px;
+    background-color: #3882F6;
+    padding: 50px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.acthead{
+    color: #F9FAF8;
+    font-weight: 900;
+    font-size: 22px;
+
+}
+
+.button2{
+    background-color: #3882F6;
+    text-align: center;
+    color: #F9FAF8;
+    display: inline-block;
+    width: 100px;
+    margin: 4px 2px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: 2px solid white;
+
+}
 
 .footer{
     color: #E5E7EB;
