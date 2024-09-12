@@ -110,27 +110,22 @@ button{
 
 .container3{
     background-color: #E5E7EB;
-    padding: 15px;
+    padding: 50px;
     display: flex;
-    flex-direction: column;
     justify-content: center;
 }
 
 .quote{
+    width: 500px;
     color: #1F2937;
     font-size: 36px;
     font-style: italic;
     font-weight: 100;
-    width: 500px;
-    display: flex;
-    justify-content: center;
-    padding-right: 100px;
-    padding-left: 100px;
-    padding-bottom: 10px;
-    padding-top: 50px;
 }
 
 .name{
+    font-style: normal;
+    font-size: 18px;
     font-weight: 900;
     color: #1F2937;
     margin-right: 0;
